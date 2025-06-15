@@ -1,10 +1,9 @@
-<head>
+
 <style>
 li{
     list-style-type: none;
 }
 </style>
-</head>
 
   * O God, 
     * the Eternal Father, 
