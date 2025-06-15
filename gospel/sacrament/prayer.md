@@ -1,10 +1,3 @@
-
-<style>
-li{
-    list-style-type: none;
-}
-</style>
-
   * O God, 
     * the Eternal Father, 
   * we ask thee 
